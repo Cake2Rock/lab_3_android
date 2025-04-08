@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lab3_StorageExample</string>
+    <string name="hint_password">Введіть пароль</string>
+    <string name="radio_show_symbols">Відображати символи</string>
+    <string name="radio_show_asterisks">Відображати зірочки</string>
+    <string name="button_ok">OK</string>
+    <string name="label_result">Ваш пароль:</string>
+</resources>
